@@ -1,3 +1,5 @@
+# http://www.checkio.org/mission/task/info/spaceship-purchase/python-27/
+
 def checkio(offers):
     '''
     the amount of money that Petr will pay for the ride
